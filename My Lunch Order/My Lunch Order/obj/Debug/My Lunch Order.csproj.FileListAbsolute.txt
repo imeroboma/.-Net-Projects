@@ -1,0 +1,10 @@
+C:\Users\imero\source\repos\My Lunch Order\My Lunch Order\bin\Debug\My Lunch Order.exe.config
+C:\Users\imero\source\repos\My Lunch Order\My Lunch Order\bin\Debug\My Lunch Order.exe
+C:\Users\imero\source\repos\My Lunch Order\My Lunch Order\bin\Debug\My Lunch Order.pdb
+C:\Users\imero\source\repos\My Lunch Order\My Lunch Order\obj\Debug\My Lunch Order.csproj.AssemblyReference.cache
+C:\Users\imero\source\repos\My Lunch Order\My Lunch Order\obj\Debug\My_Lunch_Order.Form1.resources
+C:\Users\imero\source\repos\My Lunch Order\My Lunch Order\obj\Debug\My_Lunch_Order.Properties.Resources.resources
+C:\Users\imero\source\repos\My Lunch Order\My Lunch Order\obj\Debug\My Lunch Order.csproj.GenerateResource.cache
+C:\Users\imero\source\repos\My Lunch Order\My Lunch Order\obj\Debug\My Lunch Order.csproj.CoreCompileInputs.cache
+C:\Users\imero\source\repos\My Lunch Order\My Lunch Order\obj\Debug\My Lunch Order.exe
+C:\Users\imero\source\repos\My Lunch Order\My Lunch Order\obj\Debug\My Lunch Order.pdb
