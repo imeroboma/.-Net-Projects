@@ -1,0 +1,12 @@
+C:\Users\jwarpech\source\repos\Banking\Banking\bin\Debug\Banking.dll
+C:\Users\jwarpech\source\repos\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.csprojResolveAssemblyReference.cache
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.dll
+C:\Users\jwarpech\source\repos\Banking\Banking\obj\Debug\Banking.pdb
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200\Day 6\Banking\Banking\bin\Debug\Banking.dll
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200\Day 6\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200\Day 6\Banking\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200\Day 6\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200\Day 6\Banking\Banking\obj\Debug\Banking.dll
+C:\Users\jolaw\OneDrive\Desktop\CPRG 200\Day 6\Banking\Banking\obj\Debug\Banking.pdb
