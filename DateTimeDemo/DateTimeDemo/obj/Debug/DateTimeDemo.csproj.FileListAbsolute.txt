@@ -1,0 +1,10 @@
+C:\Users\imero\source\repos\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csproj.AssemblyReference.cache
+C:\Users\imero\source\repos\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.Form1.resources
+C:\Users\imero\source\repos\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.Properties.Resources.resources
+C:\Users\imero\source\repos\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csproj.GenerateResource.cache
+C:\Users\imero\source\repos\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csproj.CoreCompileInputs.cache
+C:\Users\imero\source\repos\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe.config
+C:\Users\imero\source\repos\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+C:\Users\imero\source\repos\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+C:\Users\imero\source\repos\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+C:\Users\imero\source\repos\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
