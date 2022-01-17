@@ -1,0 +1,13 @@
+C:\Users\imero\source\repos\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.exe
+C:\Users\imero\source\repos\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.deps.json
+C:\Users\imero\source\repos\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.runtimeconfig.json
+C:\Users\imero\source\repos\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.runtimeconfig.dev.json
+C:\Users\imero\source\repos\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.dll
+C:\Users\imero\source\repos\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.pdb
+C:\Users\imero\source\repos\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.csproj.AssemblyReference.cache
+C:\Users\imero\source\repos\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.AssemblyInfoInputs.cache
+C:\Users\imero\source\repos\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.AssemblyInfo.cs
+C:\Users\imero\source\repos\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\imero\source\repos\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.dll
+C:\Users\imero\source\repos\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.pdb
+C:\Users\imero\source\repos\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.genruntimeconfig.cache
