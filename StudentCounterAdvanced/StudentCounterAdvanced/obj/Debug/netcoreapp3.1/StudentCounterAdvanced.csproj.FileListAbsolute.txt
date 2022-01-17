@@ -1,0 +1,14 @@
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\bin\Debug\netcoreapp3.1\StudentCounterAdvanced.exe
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\bin\Debug\netcoreapp3.1\StudentCounterAdvanced.deps.json
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\bin\Debug\netcoreapp3.1\StudentCounterAdvanced.runtimeconfig.json
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\bin\Debug\netcoreapp3.1\StudentCounterAdvanced.runtimeconfig.dev.json
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\bin\Debug\netcoreapp3.1\StudentCounterAdvanced.dll
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\bin\Debug\netcoreapp3.1\StudentCounterAdvanced.pdb
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\obj\Debug\netcoreapp3.1\StudentCounterAdvanced.csproj.AssemblyReference.cache
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\obj\Debug\netcoreapp3.1\StudentCounterAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\obj\Debug\netcoreapp3.1\StudentCounterAdvanced.AssemblyInfoInputs.cache
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\obj\Debug\netcoreapp3.1\StudentCounterAdvanced.AssemblyInfo.cs
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\obj\Debug\netcoreapp3.1\StudentCounterAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\obj\Debug\netcoreapp3.1\StudentCounterAdvanced.dll
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\obj\Debug\netcoreapp3.1\StudentCounterAdvanced.pdb
+C:\Users\imero\source\repos\StudentCounterAdvanced\StudentCounterAdvanced\obj\Debug\netcoreapp3.1\StudentCounterAdvanced.genruntimeconfig.cache

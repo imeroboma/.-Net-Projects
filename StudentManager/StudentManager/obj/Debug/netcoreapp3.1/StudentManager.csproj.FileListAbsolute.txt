@@ -1,0 +1,14 @@
+C:\Users\imero\source\repos\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.exe
+C:\Users\imero\source\repos\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.deps.json
+C:\Users\imero\source\repos\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.runtimeconfig.json
+C:\Users\imero\source\repos\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.runtimeconfig.dev.json
+C:\Users\imero\source\repos\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.dll
+C:\Users\imero\source\repos\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.pdb
+C:\Users\imero\source\repos\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.csproj.AssemblyReference.cache
+C:\Users\imero\source\repos\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imero\source\repos\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.AssemblyInfoInputs.cache
+C:\Users\imero\source\repos\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.AssemblyInfo.cs
+C:\Users\imero\source\repos\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\imero\source\repos\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.dll
+C:\Users\imero\source\repos\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.pdb
+C:\Users\imero\source\repos\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.genruntimeconfig.cache

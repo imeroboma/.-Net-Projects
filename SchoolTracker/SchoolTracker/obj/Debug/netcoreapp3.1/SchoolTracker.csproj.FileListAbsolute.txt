@@ -1,0 +1,14 @@
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.exe
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.deps.json
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.runtimeconfig.json
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.runtimeconfig.dev.json
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.dll
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.pdb
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.AssemblyInfoInputs.cache
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.AssemblyInfo.cs
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.csproj.CoreCompileInputs.cache
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.dll
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.pdb
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.genruntimeconfig.cache
+C:\Users\imero\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.csproj.AssemblyReference.cache
